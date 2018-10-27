@@ -1,2 +1,2 @@
-# bangkho.github.io
-My Github Pages - BangKho
+# BangKho's Page
+My Github Page - BangKho
